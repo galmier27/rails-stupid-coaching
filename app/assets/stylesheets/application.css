@@ -20,10 +20,13 @@
 
  .cardo {
   border-left: solid 5px grey;
-  padding-left: 10px;
+  padding-left: 15px;
  }
 
  .cardo p {
   font-style: italic;
   color: rgb(177, 173, 173);
+ }
+ #response{
+  background-color: #fffee0;
  }
